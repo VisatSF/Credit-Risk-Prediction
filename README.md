@@ -123,7 +123,7 @@ pip install -r requirements.txt
 ### Chạy Notebook
 
 ```bash
-jupyter notebook notebooks/eda-vietnamese.ipynb
+jupyter notebook notebooks/predict-credit-risk.ipynb
 ```
 
 ---
